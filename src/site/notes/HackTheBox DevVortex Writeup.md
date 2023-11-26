@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hack-the-box-dev-vortex-writeup/","noteIcon":"","created":"2023-11-26T09:53:47.438+05:30"}
+{"dg-publish":true,"permalink":"/hack-the-box-dev-vortex-writeup/","tags":["gardenEntry"],"noteIcon":"","created":"2023-11-26T09:53:47.438+05:30"}
 ---
 
 Scanning:
